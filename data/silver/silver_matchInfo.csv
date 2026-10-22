@@ -1,0 +1,2 @@
+match_uuid,map_uuid,ds_game_version,nr_game_length_ms,nm_region,dt_game_start_ms,provisioning_flow_uuid,bo_completed,nm_custom_game,queue_uuid,nm_game_mode,bo_ranked,season_uuid,ds_premier_match_info
+917660a3-a85f-43c7-9fbc-c914333f642f,/Game/Maps/Ascent/Ascent,release-12.10-shipping-18-4791598,2244526,br,1780769458540,CustomGame,True,,,/Game/GameModes/Bomb/BombGameMode.BombGameMode_C,False,ce2783e8-44fc-dd48-3da3-33b5ba6c4a22,{}
